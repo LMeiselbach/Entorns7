@@ -1,2 +1,8 @@
+bbdd\GestionJugadorPersistenteTest.class
 bbdd\EntidadTest.class
+bbdd\PartidoPersistenteTest.class
 bbdd\GestoresTest.class
+bbdd\GestionEquipoPersistenteTest.class
+bbdd\JugadorPersistenteTest.class
+bbdd\EquipoPersistenteTest.class
+bbdd\GestionPartidoPersistenteTest.class
